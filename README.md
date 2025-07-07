@@ -1,22 +1,60 @@
+# 🛒 Blinkit Sales & Inventory Dashboard – Power BI
 
-Blinkit Sales Dashboard
-Blinkit Sales Dashboard
-This Power BI dashboard provides a comprehensive analysis of Blinkit’s sales performance, a leading last-minute delivery app in India. Key KPIs include:
+![Dashboard Screenshot](file:///C:/Users/admin/Downloads/Blinkit%20Project.pdf)
 
-Total Sales (1.2M): Tracks overall revenue, highlighting business scale and growth opportunities.
+## 📌 Project Overview
 
-Average Sales per Transaction ($141): Measures transaction value to assess customer spending trends.
+This dashboard was built using Power BI to analyze Blinkit's **sales performance**, **inventory turnover**, and **regional contribution** across Tier 1, 2, and 3 cities.  
+The goal was to help business stakeholders make smarter decisions on **stock planning, revenue strategy, and location-specific operations**.
 
-Product Category Performance: Breaks down sales by item type (e.g., Fruits & Snacks lead with 0.18M each), aiding inventory prioritization.
+---
 
-Fat Content Analysis: Shows 64.6% of sales come from low-fat products, reflecting consumer preferences.
+## 🎯 Business Problem
 
-Outlet Tier Performance: Compares sales across Tier 1, 2, and 3 locations, with Tier 3 contributing the most (472.1K).
+The company was facing:
+- Unclear visibility on which **tiers/zones contributed the most to revenue**
+- Inconsistent **inventory turnover**
+- Regional teams lacked insights on product-level performance
 
-Outlet Establishment Trends: Reveals growth from 78K (2010) to 205K (2020), indicating expansion success.
+---
 
-Outlet Size & Type Metrics: Small outlets dominate (42.27%), while Supermarket Type1 drives the highest sales (787.5K).
+## 🧠 Key Insights
 
-Average Rating (4/5): Reflects customer satisfaction, crucial for retention strategies.
+- 🏆 **Tier 3 cities** surprisingly contributed the highest revenue (₹472.1K)
+- 🔄 **Inventory turnover** was lowest in Tier 2 cities despite stable demand
+- 🧺 Top 10 SKUs contributed 55% of revenue, suggesting high product concentration
+- 🗺️ North Zone had low contribution but high order value per customer
+- 📉 Certain categories underperformed in weekends (stockout risk)
 
-Visualizations like fat-content distribution, tier-wise sales comparisons, and item-wise revenue breakdowns enable data-driven decisions. The dashboard helps optimize inventory, marketing, and outlet strategies by identifying high-performing categories and underperforming segments.
+---
+
+## 🧰 Tools & Techniques
+
+| Tool         | Usage                                        |
+|--------------|----------------------------------------------|
+| Power BI     | Visualization, KPI tracking                  |
+| Power Query  | Data transformation                          |
+| DAX          | Measures like Revenue, Avg. Order Value, Turnover |
+| Excel        | Initial data prep                            |
+
+---
+
+## 📊 KPIs & Visuals
+
+- Revenue by Tier (1, 2, 3)
+- Inventory Turnover Ratio
+- Top-selling SKUs
+- Regional Revenue Comparison
+- Average Order Value
+- Monthly Sales Trend
+
+---
+
+## 📈 Business Impact
+
+> Helped Blinkit optimize **inventory strategy per tier**, boost revenue from underperforming zones, and reduce overstocking risk. Improved **dashboard-based decision-making** across regional teams.
+
+---
+
+## 📂 File Structure
+
