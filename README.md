@@ -1,6 +1,5 @@
 # 🛒 Blinkit Sales & Inventory Dashboard – Power BI
 
-![Dashboard Screenshot](file:///C:/Users/admin/Downloads/Blinkit%20Project.pdf)
 
 ## 📌 Project Overview
 
